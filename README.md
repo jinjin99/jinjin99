@@ -1,4 +1,12 @@
-### Hi there 👋
+## 自我介绍
+
+| 项目 | 内容          |
+| ---- | ------------- |
+| 姓名 | 陈丽金        |
+| 学号 | 3218005394    |
+| 班级 | 18信息安全1班 |
+
+
 
 <!--
 **jinjin99/jinjin99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
